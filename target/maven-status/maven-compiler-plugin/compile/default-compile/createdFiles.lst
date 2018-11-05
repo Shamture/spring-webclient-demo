@@ -1,0 +1,7 @@
+com\example\webclientdemo\config\AppProperties$Github.class
+com\example\webclientdemo\config\AppProperties.class
+com\example\webclientdemo\GithubClient.class
+com\example\webclientdemo\WebclientDemoApplication.class
+com\example\webclientdemo\GithubController.class
+com\example\webclientdemo\payload\GithubRepo.class
+com\example\webclientdemo\payload\RepoRequest.class
